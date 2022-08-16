@@ -1,18 +1,18 @@
 {
     "authors": [
         {
-            "id": 118437263754395652,
-            "name": "Animal"
+            "id": 901106330926972938,
+            "name": "Catto"
         }
     ],
     "links": {
         
     },
-    "version": "1.2.2",
+    "version": "1.0.0",
     "changelogMedia": null,
-    "description": "vine boom",
+    "description": "uwu",
     "pluginClassName": "me.aniimalz.plugins.Moyai",
     "changelog": null,
-    "name": "Moyai",
-    "updateUrl": "https://raw.githubusercontent.com/ItzOnlyAnimal/AliuPlugins/builds/updater.json"
+    "name": "Catto"
+    "updateUrl": ""
 }
