@@ -41,7 +41,7 @@ class Moyai : Plugin() {
             val message = Message(this)
             val content = message.content.lowercase()
             if (message.channelId != StoreStream.getChannelsSelected().id) return@subscribe
-            if (content.contains("🗿") || content.contains("vine boom")) funny()
+            if (content.contains("catto") || content.contains("pain")) funny()
         }
 
     }
@@ -56,7 +56,7 @@ class Moyai : Plugin() {
                             .setUsage(AudioAttributes.USAGE_MEDIA)
                             .build()
                     )
-                    setDataSource("https://raw.githubusercontent.com/ItzOnlyAnimal/AliuPlugins/main/boom.ogg")
+                    setDataSource("https://raw.githubusercontent.com/Daddy-Catto/CattoPlugins/main/meow.ogg")
                     prepare()
                     start()
                 }
