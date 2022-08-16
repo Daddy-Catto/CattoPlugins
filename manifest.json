@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "id": 118437263754395652,
+            "name": "Animal"
+        }
+    ],
+    "links": {
+        
+    },
+    "version": "1.2.2",
+    "changelogMedia": null,
+    "description": "vine boom",
+    "pluginClassName": "me.aniimalz.plugins.Moyai",
+    "changelog": null,
+    "name": "Moyai",
+    "updateUrl": "https://raw.githubusercontent.com/ItzOnlyAnimal/AliuPlugins/builds/updater.json"
+}
